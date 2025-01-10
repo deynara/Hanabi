@@ -1,0 +1,46 @@
+Game Material:
+-60 cards in 5 colors (Red, Yellow, Green, Blue, White, Rainbow) each color with values 1, 1, 1, 2, 2, 3, 3, 4, 4, 5
+-8 hint markers
+-4 lightning markers
+additional for variants:
+
+normal variant:
+-50 cards (without Rainbow)
+-8 hint markers
+-3 lightning markers
+-Starting hand: 2-3 players=5 cards; 4-5 players=4 cards 
+Important: You do NOT see your own cards, only the cards from other players.
+
+Game:
+The players take turns and can do 1 of these actions per turn:
+A: give a hint
+B: Discard one card
+C: Play one card
+
+    A: Giving a hint
+        -Can only be used if there is an active hint marker
+        1.Choose a player and a color or values
+        2.Tell the player which of their cards have that color/values (Telling them "None" is also valid)
+        3.deactivate one hint marker
+    
+    B: Discarding a card
+        -Can only be used if there is a deactivated hint marker
+        1. Choose a card and put in on the Discard Pile
+        2. Draw a new card face-down
+        3. Active one hint marker
+    
+    C: Playing a card
+        1. Choose a card to be played
+        Two options are possible:
+        a.The card is the next highest of their respective color's firework pile.
+            -The card fits and is added to the appropriate firework pile.
+        b.The card doesn't fit.
+            -Discard it
+            -Activate one lighting marker
+        2. Draw a new card face-down
+
+End of game:
+The game ends under 3 conditions:
+1. The last lighting marker is activated. Loss: A thunderstorm starts, the firework must be canceled.
+2. All 5's are played. Win with maximum score.
+3. The last card is taken from the draw pile. All players get one last turn then the firework is scored: The sum of the highests played cards from each color.
